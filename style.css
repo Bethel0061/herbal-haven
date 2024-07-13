@@ -27,6 +27,20 @@ section {
   color: #0e5634;
   border-bottom: 1px solid black;
 }
+.card{
+        width: 350px;
+        height: 550px;
+        border: 1px solid #000;
+        text-align: center;
+        margin: 50px;
+        padding: 10px;
+        border-radius: 5px;
+}
+#home .menu{
+  display: flex;
+
+}
+
 .intro {
   /* border: 1px solid black; */
   width: 60%;
